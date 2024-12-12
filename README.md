@@ -34,15 +34,8 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-......  COLOQUE AQUI O SEU TEXTO ......
+[![Imagem do Trabalho]](https://www.youtube.com/watch?v=W-CtVOJEKtg)
 
-> Adicione aqui o vídeo explicativo do trabalho.
-> Utilize a estrutura (link) abaixo para apresentação do vídeo.
-> O vídeo deve ser postado obrigatoriamente de forma pública no Youtube ou qualquer outra plataforma 
-
-> A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
-
-[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
 
 ## Informações Adicionais
 
